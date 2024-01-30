@@ -1,0 +1,1 @@
+Este es un proyecto en el que publicaré mis prácticas semanales con diferentes bibliotecas como pandas, numpy, scikit-learn, matplotlib, etc. Mi objetivo es explorar y aprender más sobre el análisis de datos y el aprendizaje automático, y compartir mis hallazgos y experiencias a lo largo del camino.
