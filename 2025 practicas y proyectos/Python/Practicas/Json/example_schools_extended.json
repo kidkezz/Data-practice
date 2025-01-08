@@ -1,0 +1,86 @@
+{
+    "01M539": {
+        "street_address": "111 Columbia Street",
+        "city": "Manhattan",
+        "scores": {
+            "math": 657,
+            "reading": 601,
+            "writing": 601
+        }
+    },
+    "02M123": {
+        "street_address": "222 Broadway Avenue",
+        "city": "Manhattan",
+        "scores": {
+            "math": 700,
+            "reading": 650,
+            "writing": 680
+        }
+    },
+    "03Q456": {
+        "street_address": "333 Queens Boulevard",
+        "city": "Queens",
+        "scores": {
+            "math": 720,
+            "reading": 690
+        }
+    },
+    "04B789": {
+        "street_address": "444 Bronx Road",
+        "city": "Bronx",
+        "scores": {
+            "math": 680,
+            "writing": 640
+        }
+    },
+    "05S101": {
+        "street_address": "555 Staten Island Ave",
+        "city": "Staten Island",
+        "scores": {
+            "math": 710,
+            "reading": 705,
+            "writing": 700
+        }
+    },
+    "06M202": {
+        "street_address": "666 Madison Avenue",
+        "city": "Manhattan",
+        "scores": {
+            "reading": 620,
+            "writing": 615
+        }
+    },
+    "07Q303": {
+        "street_address": "777 Jamaica Avenue",
+        "city": "Queens",
+        "scores": {
+            "math": 730,
+            "reading": 720
+        }
+    },
+    "08B404": {
+        "street_address": "888 Fordham Road",
+        "city": "Bronx",
+        "scores": {
+            "math": 640,
+            "writing": 630
+        }
+    },
+    "09S505": {
+        "street_address": "999 Bay Street",
+        "city": "Staten Island",
+        "scores": {
+            "reading": 680,
+            "writing": 670
+        }
+    },
+    "10M606": {
+        "street_address": "1010 Lexington Avenue",
+        "city": "Manhattan",
+        "scores": {
+            "math": 750,
+            "reading": 740,
+            "writing": 730
+        }
+    }
+}
