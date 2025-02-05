@@ -11,4 +11,4 @@ Modelado y evaluación de algoritmos de machine learning.
 Visualización de datos intuitiva y efectiva.
 ✨ Compromiso: Documentar y compartir cada práctica con el objetivo de aprender, mejorar y contribuir al conocimiento de la comunidad.
 
-¡Acompáñame en este viaje de aprendizaje! 🧠📈
+¡Acompáñame en este viaje de aprendizaje! 🧠📈 :)
