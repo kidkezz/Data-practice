@@ -1,0 +1,44 @@
+#### solicitud_creditos_info.csv
+
+Columna	Descripción
+id	identificador del crédito
+default	"1 si entró en mora, 0 no entró en mora"
+contract_type	si es crédito personal o tarjeta de crédito
+gender	género del cliente
+flag_vehicle	indicador de si el cliente tiene carro o moto
+flag_properties	indicador de si el cliente tiene propiedades
+num_children	número de hijos del cliente
+total_income	ingreso anual del cliente en euros
+loan_amount	monto del crédito
+income_type	fuente de los ingresos del cliente
+marital_status	client's marital status
+age		edad del cliente (en días)
+work_age	tiempo (en días) que el cliente lleva en su actual empleo
+flag_cellphone	"el cliente provee su número de celular? (1) sì, (0) no"
+flag_work_phone	"el cliente provee su número de teléfono? (1) sì, (0) no"
+flag_work_company	"el cliente provee su número de contacto empresarial? (1) sì, (0) no"
+flag_cellphone_answer	"el cliente contesta en el número de celular indicado? (1) sì, (0) no"
+flag_homephone	"el cliente provee en el número de teléfono de su residencia? (1) sì, (0) no"
+flag_email	"el cliente provee su dirección de correo electrónico? (1) sì, (0) no"
+type_organisation	tipo de empresa en la que el cliente trabaja
+external_score_2	"puntaje crediticio externo 1, normalised"
+external_score_3	"puntaje crediticio externo 2, normalised"
+age_mobilephone_days	número de días desde que el cliente tiene el número de celular actual
+num_petic_bureau_day	number de peticiones de crédito en el día previo a la solicitud num_petic_bureau_week	number de peticiones de crédito en la semana previa a la solicitud
+num_petic_bureau_month	number de peticiones de crédito en el mes previo a la solicitud 
+num_petic_bureau_quarter	number de peticiones de crédito en el trimestre previo a la solicitud 
+num_petic_bureau_year	number de peticiones de crédito en el año previo a la solicitud
+year 		año de la solicitud del crédito
+month		mes de la solicitud del crédito
+Office		id de la oficina donde se solicitó y otorgó el crédito
+Employee	id del empleado que gestiono la solicitud del crédito
+
+
+#### Employees.csv
+Employee			 Código de identificación del empleado
+employee_age		 Edad del empleado (momento de contratación)
+employe_gender		 Sexo del empleado
+exp_previa			 Años de experiencia previa (momento de contratación)
+employee_estudios	 Nivel de estudios (momento de contratación)
+resul_prub_seleccion	 Resultados de las pruebas de selección (momento de contratación)
+eval_jefeRH	 	 	 	 Resultados de la evaluación del jefe de recurso humanos (momento de contratación)
